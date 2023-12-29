@@ -1,4 +1,4 @@
-# -I-m-Avyay
+# I-m-Avyay
 Self-taught Ethical Hacker and Full Stack Developer: Mastering the art of cybersecurity and crafting seamless digital experiences through relentless self-discovery and continuous learning. 💻🔒
 
 
@@ -7,8 +7,16 @@ Self-taught Ethical Hacker and Full Stack Developer: Mastering the art of cybers
 
 
 🖱️ I’m currently working on Something
+
+
 🌱 I’m currently learning Web3 & Android Pentesting
+
+
 👯 I’m looking to collaborate
+
+
 💭 Ask me about Linux, SQLi, AngularJs, Api
+
+
 📧 How to reach me: avyaysec@proton.me
 
